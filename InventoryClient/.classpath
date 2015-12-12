@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/aspectjtools-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/hibernate-validator-annotation-processor-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/hibernate-validator-fix.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.aop-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.asm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.aspects-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.beans-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.context.support-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.context-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.expression-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.instrument.tomcat-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.instrument-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.jdbc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.jms-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.orm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.oxm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.test-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.web.portlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.web.servlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.web.struts-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/org.springframework.web-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/spring-webmvc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/J2EE Tools Kepler/Useful JAR files/Spring 3.0/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
